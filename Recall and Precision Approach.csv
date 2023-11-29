@@ -1,0 +1,11 @@
+Old Regime,,,New Regime,,,Loan Values,
+num_defaulted,6640,,TP,5071,,performing_loan,3500
+num_nondefaulted,33360,,FN,1569,,defaulted_loan,15000
+,,,FP,6448,,,
+Recall,0.763636,,TN,26912,,,
+Precision,0.440227,,,,,,
+,,,,,,,
+Solve for FP using Precision,,,,Gross Profit,94192000,,
+Equation,precision = (TP)/(TP + FP) ,,,Loss,23535000,,
+Solve for FP  ,FP = (TP)/(precision) - TP,,,Net Profit,70657000,,
+FP =,6448,,,,,,
