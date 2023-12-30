@@ -1,11 +1,11 @@
 ,Actual 0,Actual 1,,,
-Classif. 0,26476,1620,,num_loans,40000
-Classif. 1,6664,5240,,,
+Classif. 0,26580,1648,,num_loans,40000
+Classif. 1,6556,5212,,,
 ,,,,,
 Confusion Matrix Percentages (from notebook),,,,Loan Values,
-TP_percent,0.131,,,performing_loan,3500
-FN_percent,0.0405,,,defaulted_loan,15000
-TN_percent,0.6619,,,,
-FP_percent,0.1666,,,Gross Product,92666000
-,,,,Loss,24300000
-,,,,Net Profit,68366000
+TP,0.1303,,,performing_loan,3500
+FN,0.0412,,,defaulted_loan,15000
+TN,0.6645,,,,
+FP,0.1639,,,Gross Product,93030000
+,,,,Loss,24720000
+,,,,Net Profit,68310000
